@@ -4,7 +4,7 @@
 
 ### Installation
 01. `git clone https://github.com/hirakarmokar/MU-STUDENT-MANAGEMENT`
-02. `cd laravel-school-management-system`
+02. `cd MU STUDENT MANAGEMENT`
 03. `composer install`
 04. `npm install`
 05. `cp .env.example .env`
